@@ -1,17 +1,17 @@
 {
-    "name": "croustibat/filament-jobs-monitor",
+    "name": "onurkacmaz/filament-jobs-monitor",
     "description": "Background Jobs monitoring like Horizon for all drivers for FilamentPHP",
     "keywords": [
-        "croustibat",
+        "onurkacmaz",
         "laravel",
         "filament-jobs-monitor"
     ],
-    "homepage": "https://github.com/croustibat/filament-jobs-monitor",
+    "homepage": "https://github.com/onurkacmaz/filament-jobs-monitor",
     "license": "MIT",
     "authors": [
         {
-            "name": "Baptiste",
-            "email": "baptiste@dark-matter.fr",
+            "name": "Onur Kaçmaz",
+            "email": "kacmaz.onur@hotmail.com",
             "role": "Developer"
         }
     ],
